@@ -2,8 +2,6 @@
 _gh_pages
 _site
 .ruby-version
-.sass-cache
-.jekyll-cache
 
 # Numerous always-ignore extensions
 *.diff
@@ -41,6 +39,11 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+.sass-cache
 
-# Ruby gems
+# Dev stuff
+Makefile
+Gemfile.lock
+_config.dev.yml
+.vscode
 *.gem

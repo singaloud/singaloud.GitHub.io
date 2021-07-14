@@ -1,8 +1,13 @@
 ---
 layout: page
 title: About
+sidebar_link: true
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it
+  for your own use upon downloading. Carry on!
+</p>
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+To make pages show up in the sidebar, add `sidebar_link: true` to the front
+matter.
