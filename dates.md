@@ -1,5 +1,5 @@
 ---
-layout: archive-日期
+layout: archive-dates
 permalink: /dates/
 title: 日期
 ---
