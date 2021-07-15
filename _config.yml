@@ -29,16 +29,16 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: leopard
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Leopard
   links:
     - https://twitter.com/singaloud
     - https://github.com/singaloud
 google_site_verification: xxxxx
-lang: en
+lang: ch
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Leopard Alligator
+  name: Leopard
   url: https://github.com/singaloud/
   email: singaloud@gmail.com
