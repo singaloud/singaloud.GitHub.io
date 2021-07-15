@@ -5,7 +5,7 @@ url: https://singaloud.github.io
 avatar: /cat.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /tree.png
 
 # Gems
 plugins:
