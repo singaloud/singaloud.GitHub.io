@@ -1,6 +1,6 @@
 # Setup
 title: 春 晓
-description: 简简单单 轻松自然 清新纯朴 随遇而安
+description: 简简单单 轻松自然 清新淳朴 随遇而安
 url: https://singaloud.github.io
 avatar: /hummingbird.svg
 paginate: 5
@@ -29,11 +29,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: leopard
+  username: singaloud
   card: summary
 logo: logo.png
 social:
-  name: Leopard
+  name: leopard
   links:
     - https://twitter.com/singaloud
     - https://github.com/singaloud
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Leopard
+  name: leopard
   url: https://github.com/singaloud/
   email: singaloud@gmail.com
