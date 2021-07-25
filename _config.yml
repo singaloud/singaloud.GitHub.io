@@ -5,7 +5,7 @@ url: https://singaloud.github.io
 avatar: /hummingbird.svg
 paginate: 5
 permalink: pretty
-cover_image: /clouds.svg
+cover_image: /tilda.png
 
 # Gems
 plugins:
