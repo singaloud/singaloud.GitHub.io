@@ -1,6 +1,6 @@
 ---
 layout: post
-title: samba 写入，filebrowser无法运行
+title: samba 无法写入，filebrowser无法运行
 author: Leopard
 tags: [机顶盒，filebrowser，samba]
 date: 2023-04-16 08:37 +0800
