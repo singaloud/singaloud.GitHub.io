@@ -10,11 +10,11 @@ date: 2023-04-16 08:37 +0800
 
 ### 解决方法：
 SSH进去，设置目录权限 777
-chmod -R 777 /mnt
+> chmod -R 777 /mnt
 
 
 ## （2）openwrt下filebrowser设置主程序目录，并放置主程序文件，无法运行。
 
 ### 同样是：
 SSH进去，设置目录权限 777
-chmod -R 777 /mnt
+> chmod -R 777 /mnt
